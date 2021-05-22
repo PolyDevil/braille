@@ -1,11 +1,11 @@
 ## Jests
- - circle
- - half circle
- - bean
- - dash
- - line
- - column
- - diagonal
+ - [circle](/#section)
+ - [half circle](/#half-circle)
+ - [bean](/#bean)
+ - [dash](/#dash)
+ - [line](/#line)
+ - [column](/#column)
+ - [diagonal](/#diagonal)
 
 ### Circle
 The Circle always has direction - it could be clockwise(CW) or counterclockwise(CCW).
