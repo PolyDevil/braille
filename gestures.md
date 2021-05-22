@@ -1,4 +1,4 @@
-## Jests
+## Gestures
  - [circle](#circle)
  - [half circle](#half-circle)
  - [bean](#bean)
@@ -45,7 +45,7 @@ The combination of direction and repeating allows to define those Braille symbol
 ### Line
 Line is a vertical line with the length of 2 dots;
 
- ### Column
+### Column
 Column is a vertical line with the length of 3 dots;
 
 ### Diagonal
