@@ -1,5 +1,5 @@
 ## Jests
- - [circle](/#section)
+ - [circle](./#circle)
  - [half circle](/#half-circle)
  - [bean](/#bean)
  - [dash](/#dash)
