@@ -70,7 +70,7 @@
  - Arrow Right (`⠕`)
  - Arrow Left (`⠪`)
 
-## Piramids
+## Triangle
  - Piramid Left (`⠗`)
  - Piramid Right (`⠺`)
 
