@@ -2,7 +2,8 @@
  - Space (`⠀`)
 
 ## Dots
- - Dot LeftTop (`⠁`) <img src="./images/gestures/dot/LeftTop.png" width="100" height="100">
+ - Dot LeftTop (`⠁`)
+<img src="./images/gestures/dot/LeftTop.png" width="40" height="60">
  - Dot LeftMiddle (`⠂`)
  - Dot LeftBottom (`⠄`)
  - Dot RightTop (`⠈`)
