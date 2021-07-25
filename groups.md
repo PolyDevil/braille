@@ -3,6 +3,7 @@
 
 ## Dots
  - Dot LeftTop (`⠁`)
+   ![Dot LeftTop](./images/gestures/dot/LeftTop.png)
  - Dot LeftMiddle (`⠂`)
  - Dot LeftBottom (`⠄`)
  - Dot RightTop (`⠈`)
@@ -28,11 +29,11 @@
  - Dash Middle (`⠒`)
  - Dash Bottom (`⠤`)
 
-## Diagonals
- - Diagonal RightTop (`⠊`)
- - Diagonal LeftTop (`⠑`)
- - Diagonal LeftBottom (`⠔`)
- - Diagonal RightBottom (`⠢`)
+## Oblique
+ - Oblique RightTop (`⠊`)
+ - Oblique LeftTop (`⠑`)
+ - Oblique LeftBottom (`⠔`)
+ - Oblique RightBottom (`⠢`)
 
 ## Corners
  - Corner RightTop-LeftTop (`⠋`)
@@ -44,9 +45,9 @@
  - Corner RightBottom-RightMiddle (`⠲`)
  - Corner LeftBottom-RightBottom (`⠴`)
 
-## Beans
- - Bean LeftBottom/RightTop (`⠌`)
- - Bean LeftTop/RightBottom (`⠡`)
+## Diagonals
+ - Diagonal LeftBottom/RightTop (`⠌`)
+ - Diagonal LeftTop/RightBottom (`⠡`)
 
 ## Walls
  - Wall LeftBottom (`⠍`)
@@ -71,12 +72,12 @@
  - Arrow Left (`⠪`)
 
 ## Triangle
- - Piramid Left (`⠗`)
- - Piramid Right (`⠺`)
+ - Triangle Left (`⠗`)
+ - Triangle Right (`⠺`)
 
-## Boxes
- - Box Top (`⠛`)
- - Box Bottom (`⠶`)
+## Squares
+ - Square Top (`⠛`)
+ - Square Bottom (`⠶`)
 
 ## Hooks
  - Hook RightTop (`⠝`)
@@ -98,8 +99,8 @@
  - Stripes (`⠭`)
 
 ## Brackets
- - Brackets Left (`⠯`)
- - Brackets Right (`⠽`)
+ - Bracket Left (`⠯`)
+ - Bracket Right (`⠽`)
 
 ## Full
  - Full (`⠿`)
