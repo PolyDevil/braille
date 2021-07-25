@@ -2,13 +2,14 @@
  - Space (`⠀`)
 
 ## Dots
- - Dot LeftTop (`⠁`)
-<img src="./images/gestures/dot/LeftTop.png" width="40" height="60">
- - Dot LeftMiddle (`⠂`)
- - Dot LeftBottom (`⠄`)
- - Dot RightTop (`⠈`)
- - Dot RightMiddle (`⠐`)
- - Dot RightBottom (`⠠`)
+| Braille | Name            | Image |
+| ------- | --------------- | ----- |
+| `⠁`     | Dot LeftTop     | <img src="./images/gestures/dot/LeftTop.png" width="40" height="60"> |
+| `⠂`     | Dot LeftMiddle  | <img src="./images/gestures/dot/LeftMiddle.png" width="40" height="60"> |
+| `⠄`     | Dot LeftBottom  | <img src="./images/gestures/dot/LeftBottom.png" width="40" height="60"> |
+| `⠈`     | Dot RightTop    | <img src="./images/gestures/dot/RightTop.png" width="40" height="60"> |
+| `⠐`     | Dot RightMiddle | <img src="./images/gestures/dot/RightMiddle.png" width="40" height="60"> |
+| `⠠`     | Dot RightBottom | <img src="./images/gestures/dot/RightBottom.png" width="40" height="60"> |
 
 ## Lines
  - Line LeftTop (`⠃`)
