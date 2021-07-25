@@ -11,6 +11,8 @@
 The Circle always has direction - it could be clockwise(CW) or counterclockwise(CCW).
 The Circle can repeat itself (besides single circle there could double and triple circles).
 
+![circle](./images/primitives/Circle.svg)
+
 The combination of direction and repeating allows to define those Braille symbols:
  - Dot CCW 1 - `⠁`
  - Dot CCW 2 - `⠂`
