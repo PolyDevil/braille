@@ -104,8 +104,8 @@
 ## Squares
 | Braille | Name            | Image |
 | ------- | --------------- | ----- |
-| `⠛`     | Square Top     | <img src="./images/gestures/square/LeftTop.png" width="40" height="60"> |
-| `⠶`     | Square Bottom     | <img src="./images/gestures/square/LeftBottom.png" width="40" height="60"> |
+| `⠛`     | Square Top     | <img src="./images/gestures/square/LeftTop_1.png" width="40" height="60"> |
+| `⠶`     | Square Bottom     | <img src="./images/gestures/square/LeftBottom_1.png" width="40" height="60"> |
 
 ## Hooks
 | Braille | Name             | Image |
@@ -124,10 +124,10 @@
 ## Hollows
 | Braille | Name            | Image |
 | ------- | --------------- | ----- |
-| `⠟`     | Hollow LeftBottom     | <img src="./images/gestures/hollow/LeftBottom.png" width="40" height="60"> |
-| `⠷`     | Hollow RightTop     | <img src="./images/gestures/hollow/RightTop.png" width="40" height="60"> |
-| `⠻`     | Hollow LeftBottom     | <img src="./images/gestures/hollow/LeftBottom.png" width="40" height="60"> |
-| `⠾`     | Hollow LeftTop     | <img src="./images/gestures/hollow/LeftTop.png" width="40" height="60"> |
+| `⠟`     | Hollow LeftBottom     | <img src="./images/gestures/hollow/LeftBottom_1.png" width="40" height="60"> |
+| `⠷`     | Hollow RightTop     | <img src="./images/gestures/hollow/RightTop_1.png" width="40" height="60"> |
+| `⠻`     | Hollow LeftBottom     | <img src="./images/gestures/hollow/LeftBottom_1.png" width="40" height="60"> |
+| `⠾`     | Hollow LeftTop     | <img src="./images/gestures/hollow/LeftTop_1.png" width="40" height="60"> |
 
 ## Stripes
 | Braille | Name    | Image |
